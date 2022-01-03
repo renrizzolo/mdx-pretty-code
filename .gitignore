@@ -4,7 +4,6 @@ node_modules
 .chrome
 *.log
 .jekyll-metadata
-dist/
 .idea/
 .vscode/
 coverage.info
